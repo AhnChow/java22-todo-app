@@ -1,0 +1,4 @@
+private boolean checksymm( int a ){
+    if (a == SDX){return true;}
+    else {return false;}
+}
