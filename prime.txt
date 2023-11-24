@@ -1,0 +1,5 @@
+private boolean checkprime( int a ) {
+  if ( a == SNT ){return true;}
+else{ return false; }
+}
+
