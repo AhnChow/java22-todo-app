@@ -1,0 +1,5 @@
+private boolean checkhappy ( int a ){
+    if(a == SHP){return true;}
+    else{return false;}
+
+}
